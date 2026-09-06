@@ -144,5 +144,15 @@
     "category": "meals-leftovers",
     "quantity": 1,
     "notes": "bag"
+  },
+  {
+    "id": "gh-1788733210203-b5opih",
+    "name": "Frozen shrimp",
+    "category": "seafood",
+    "quantity": 1,
+    "dateFrozen": null,
+    "notes": "1 bag",
+    "addedBy": null,
+    "createdAt": "2026-09-06T22:20:10.203Z"
   }
 ]
