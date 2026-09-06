@@ -154,5 +154,15 @@
     "notes": "1 bag",
     "addedBy": null,
     "createdAt": "2026-09-06T22:20:10.203Z"
+  },
+  {
+    "id": "gh-1788733254605-r8jfmu",
+    "name": "Frozen shrimp",
+    "category": "seafood",
+    "quantity": 1,
+    "dateFrozen": null,
+    "notes": "1 bag",
+    "addedBy": null,
+    "createdAt": "2026-09-06T22:20:54.605Z"
   }
 ]
