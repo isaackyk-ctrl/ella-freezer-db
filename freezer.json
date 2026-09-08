@@ -164,5 +164,15 @@
     "notes": "1 bag",
     "addedBy": null,
     "createdAt": "2026-09-06T22:20:54.605Z"
+  },
+  {
+    "id": "gh-1788911873389-6ypkpd",
+    "name": "Butternut squash pasta",
+    "category": "other",
+    "quantity": 1,
+    "dateFrozen": "2026-09-08",
+    "notes": null,
+    "addedBy": null,
+    "createdAt": "2026-09-08T23:57:53.389Z"
   }
 ]
