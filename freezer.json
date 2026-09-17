@@ -1,158 +1,380 @@
-[
-  {
-    "id": "seed-0",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Beef short ribs",
-    "category": "meat-poultry",
-    "quantity": 1
-  },
-  {
-    "id": "seed-1",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Chicken thighs, boneless & skinless",
-    "category": "meat-poultry",
-    "quantity": 1
-  },
-  {
-    "id": "seed-2",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Beef chunks for stewing",
-    "category": "meat-poultry",
-    "quantity": 2,
-    "notes": "small packages"
-  },
-  {
-    "id": "seed-3",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Pork tenderloin",
-    "category": "meat-poultry",
-    "quantity": 1,
-    "notes": "bag"
-  },
-  {
-    "id": "seed-5",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "New York steaks",
-    "category": "meat-poultry",
-    "quantity": 2
-  },
-  {
-    "id": "seed-6",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Chicken thighs, bone-in & skin-on",
-    "category": "meat-poultry",
-    "quantity": 2,
-    "notes": "bags"
-  },
-  {
-    "id": "seed-7",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Ground turkey",
-    "category": "meat-poultry",
-    "quantity": 1,
-    "notes": "bag"
-  },
-  {
-    "id": "seed-8",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Korean pork",
-    "category": "meat-poultry",
-    "quantity": 1,
-    "notes": "bags"
-  },
-  {
-    "id": "seed-9",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Salmon fillets",
-    "category": "seafood",
-    "quantity": 3
-  },
-  {
-    "id": "seed-10",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "French fries",
-    "category": "sides-snacks",
-    "quantity": 1,
-    "notes": "bag"
-  },
-  {
-    "id": "seed-12",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Stuffed pasta",
-    "category": "meals-leftovers",
-    "quantity": 1,
-    "notes": "for the baby, bag"
-  },
-  {
-    "id": "seed-13",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Homemade stew",
-    "category": "meals-leftovers",
-    "quantity": 1,
-    "notes": "bag"
-  },
-  {
-    "id": "seed-14",
-    "dateFrozen": null,
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:11:41.839Z",
-    "name": "Store-bought stew",
-    "category": "meals-leftovers",
-    "quantity": 1,
-    "notes": "bag"
-  },
-  {
-    "id": "gh-1788733210203-b5opih",
-    "name": "Frozen shrimp",
-    "category": "seafood",
-    "quantity": 1,
-    "dateFrozen": null,
-    "notes": "1 bag",
-    "addedBy": null,
-    "createdAt": "2026-09-06T22:20:10.203Z"
-  },
-  {
-    "id": "gh-1788911873389-6ypkpd",
-    "name": "Butternut squash pasta",
-    "category": "other",
-    "quantity": 1,
-    "dateFrozen": "2026-09-08",
-    "notes": null,
-    "addedBy": null,
-    "createdAt": "2026-09-08T23:57:53.389Z"
-  },
-  {
-    "id": "gh-1788911911127-0gist2",
-    "name": "Helmis perogies -  cheddar",
-    "category": "other",
-    "quantity": 1,
-    "dateFrozen": "2026-09-08",
-    "notes": null,
-    "addedBy": null,
-    "createdAt": "2026-09-08T23:58:31.127Z"
-  }
-]
+{
+  "freezer": [
+    {
+      "id": "seed-0",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Beef short ribs",
+      "category": "meat-poultry",
+      "quantity": 1
+    },
+    {
+      "id": "seed-1",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Chicken thighs, boneless & skinless",
+      "category": "meat-poultry",
+      "quantity": 1
+    },
+    {
+      "id": "seed-2",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Beef chunks for stewing",
+      "category": "meat-poultry",
+      "quantity": 2,
+      "notes": "small packages"
+    },
+    {
+      "id": "seed-3",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Pork tenderloin",
+      "category": "meat-poultry",
+      "quantity": 1,
+      "notes": "bag"
+    },
+    {
+      "id": "seed-5",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "New York steaks",
+      "category": "meat-poultry",
+      "quantity": 2
+    },
+    {
+      "id": "seed-6",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Chicken thighs, bone-in & skin-on",
+      "category": "meat-poultry",
+      "quantity": 2,
+      "notes": "bags"
+    },
+    {
+      "id": "seed-7",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Ground turkey",
+      "category": "meat-poultry",
+      "quantity": 1,
+      "notes": "bag"
+    },
+    {
+      "id": "seed-8",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Korean pork",
+      "category": "meat-poultry",
+      "quantity": 1,
+      "notes": "bags"
+    },
+    {
+      "id": "seed-9",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Salmon fillets",
+      "category": "seafood",
+      "quantity": 3
+    },
+    {
+      "id": "seed-10",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "French fries",
+      "category": "sides-snacks",
+      "quantity": 1,
+      "notes": "bag"
+    },
+    {
+      "id": "seed-12",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Stuffed pasta",
+      "category": "meals-leftovers",
+      "quantity": 1,
+      "notes": "for the baby, bag"
+    },
+    {
+      "id": "seed-13",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Homemade stew",
+      "category": "meals-leftovers",
+      "quantity": 1,
+      "notes": "bag"
+    },
+    {
+      "id": "seed-14",
+      "dateFrozen": null,
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:11:41.839Z",
+      "name": "Store-bought stew",
+      "category": "meals-leftovers",
+      "quantity": 1,
+      "notes": "bag"
+    },
+    {
+      "id": "gh-1788733210203-b5opih",
+      "name": "Frozen shrimp",
+      "category": "seafood",
+      "quantity": 1,
+      "dateFrozen": null,
+      "notes": "1 bag",
+      "addedBy": null,
+      "createdAt": "2026-09-06T22:20:10.203Z"
+    },
+    {
+      "id": "gh-1788911873389-6ypkpd",
+      "name": "Butternut squash pasta",
+      "category": "other",
+      "quantity": 1,
+      "dateFrozen": "2026-09-08",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-08T23:57:53.389Z"
+    },
+    {
+      "id": "gh-1788911911127-0gist2",
+      "name": "Helmis perogies -  cheddar",
+      "category": "other",
+      "quantity": 1,
+      "dateFrozen": "2026-09-08",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-08T23:58:31.127Z"
+    }
+  ],
+  "pantry": [],
+  "spices": [
+    {
+      "id": "seed-spice-0",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Organic ground cinnamon",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-1",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Pumpkin spice",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-2",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Parsley grinder",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-3",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Fines herbs",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-4",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Onion powder",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-5",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Garlic powder",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-6",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Basil",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-7",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Rosemary",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-8",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Cayenne",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-9",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Mushroom umami seasoning",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-10",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Ground allspice",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-11",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Cumin",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-12",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Nutmeg",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-13",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "MSG",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-14",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Turmeric",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-15",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Peppercorn medley",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-16",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "White pepper",
+      "category": "spices"
+    },
+    {
+      "id": "seed-spice-17",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Buttery steakhouse seasoning",
+      "category": "blends"
+    },
+    {
+      "id": "seed-spice-18",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Kinder's the blend seasoning",
+      "category": "blends"
+    },
+    {
+      "id": "seed-spice-19",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Kinder's Japanese barbecue seasoning",
+      "category": "blends"
+    },
+    {
+      "id": "seed-spice-20",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Taco seasoning",
+      "category": "blends"
+    },
+    {
+      "id": "seed-spice-21",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Citrusy garlic seasoning",
+      "category": "blends"
+    },
+    {
+      "id": "seed-spice-22",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Vegan chickenless seasoning salt",
+      "category": "blends"
+    },
+    {
+      "id": "seed-spice-23",
+      "inStock": true,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:24:46.065Z",
+      "name": "Cheesy seasoning blends",
+      "category": "blends"
+    }
+  ],
+  "shopping": []
+}
