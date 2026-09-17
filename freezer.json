@@ -374,6 +374,15 @@
       "createdAt": "2026-09-17T21:24:46.065Z",
       "name": "Cheesy seasoning blends",
       "category": "blends"
+    },
+    {
+      "id": "gh-1789680785617-v32ypc",
+      "name": "Bay leaves",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-17T21:33:05.616Z",
+      "inStock": true
     }
   ],
   "shopping": [
