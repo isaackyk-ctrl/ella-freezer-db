@@ -1,15 +1,6 @@
 {
   "freezer": [
     {
-      "id": "seed-0",
-      "dateFrozen": null,
-      "addedBy": null,
-      "createdAt": "2026-09-06T22:11:41.839Z",
-      "name": "Beef short ribs",
-      "category": "meat-poultry",
-      "quantity": 1
-    },
-    {
       "id": "seed-1",
       "dateFrozen": null,
       "addedBy": null,
