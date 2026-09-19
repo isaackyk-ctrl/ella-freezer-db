@@ -126,16 +126,6 @@
       "notes": null,
       "addedBy": null,
       "createdAt": "2026-09-08T23:58:31.127Z"
-    },
-    {
-      "id": "gh-1789785857049-8u88kw",
-      "name": "Tater tots",
-      "category": "sides-snacks",
-      "notes": null,
-      "addedBy": null,
-      "createdAt": "2026-09-19T02:44:17.049Z",
-      "quantity": 1,
-      "dateFrozen": null
     }
   ],
   "pantry": [],
