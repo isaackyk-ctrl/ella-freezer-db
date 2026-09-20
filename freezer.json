@@ -384,6 +384,15 @@
       "addedBy": null,
       "createdAt": "2026-09-17T21:33:05.616Z",
       "inStock": true
+    },
+    {
+      "id": "gh-1789925646347-m0ua8o",
+      "name": "Paprika",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-20T17:34:06.347Z",
+      "inStock": true
     }
   ],
   "shopping": [
