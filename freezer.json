@@ -156,6 +156,16 @@
       "createdAt": "2026-09-20T17:33:40.395Z",
       "quantity": 1,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1789928454147-nzucja",
+      "name": "Breakfast sausage x 8",
+      "category": "meat-poultry",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-20T18:20:54.146Z",
+      "quantity": 1,
+      "dateFrozen": null
     }
   ],
   "pantry": [],
