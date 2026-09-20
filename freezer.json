@@ -136,6 +136,16 @@
       "createdAt": "2026-09-20T17:32:55.690Z",
       "quantity": 1,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1789925590056-39vqzu",
+      "name": "Chicken dumplings",
+      "category": "sides-snacks",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-20T17:33:10.056Z",
+      "quantity": 2,
+      "dateFrozen": null
     }
   ],
   "pantry": [],
