@@ -393,6 +393,15 @@
       "addedBy": null,
       "createdAt": "2026-09-20T17:34:06.347Z",
       "inStock": true
+    },
+    {
+      "id": "gh-1789925652468-n6aiz4",
+      "name": "Ground ginger",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-20T17:34:12.468Z",
+      "inStock": true
     }
   ],
   "shopping": [
