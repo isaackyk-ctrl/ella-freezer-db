@@ -411,6 +411,15 @@
       "addedBy": null,
       "createdAt": "2026-09-20T17:34:16.227Z",
       "inStock": true
+    },
+    {
+      "id": "gh-1789925662488-lgiy5v",
+      "name": "Oregano",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-20T17:34:22.487Z",
+      "inStock": true
     }
   ],
   "shopping": [
