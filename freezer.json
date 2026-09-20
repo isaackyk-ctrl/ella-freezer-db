@@ -402,6 +402,15 @@
       "addedBy": null,
       "createdAt": "2026-09-20T17:34:12.468Z",
       "inStock": true
+    },
+    {
+      "id": "gh-1789925656227-g8t64p",
+      "name": "Thyme",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-20T17:34:16.227Z",
+      "inStock": true
     }
   ],
   "shopping": [
