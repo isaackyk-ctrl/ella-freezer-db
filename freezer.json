@@ -126,6 +126,16 @@
       "notes": null,
       "addedBy": null,
       "createdAt": "2026-09-08T23:58:31.127Z"
+    },
+    {
+      "id": "gh-1789925575690-5qlfbn",
+      "name": "Cheese cheddar patty",
+      "category": "sides-snacks",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-20T17:32:55.690Z",
+      "quantity": 1,
+      "dateFrozen": null
     }
   ],
   "pantry": [],
