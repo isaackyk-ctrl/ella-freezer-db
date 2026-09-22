@@ -166,6 +166,16 @@
       "createdAt": "2026-09-22T00:23:12.834Z",
       "quantity": 1,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1790120833240-q80gmv",
+      "name": "Boneless skinless thighs",
+      "category": "meat-poultry",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-22T23:47:13.240Z",
+      "quantity": 1,
+      "dateFrozen": null
     }
   ],
   "pantry": [],
