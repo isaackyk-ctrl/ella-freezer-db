@@ -348,6 +348,16 @@
       "createdAt": "2026-09-28T17:01:00.209Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1790638582628-tuugr3",
+      "name": "T&T Premium Dark Soy Sauce",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T23:36:22.627Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
