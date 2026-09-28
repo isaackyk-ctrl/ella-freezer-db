@@ -208,7 +208,128 @@
       "dateFrozen": null
     }
   ],
-  "pantry": [],
+  "pantry": [
+    {
+      "id": "import-pantry-sauce-0",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "Lea & Perrins Worcestershire Sauce",
+      "category": "condiments-sauces"
+    },
+    {
+      "id": "import-pantry-sauce-1",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "T&T Soy Sauce for Seafood (蒸魚豉油)",
+      "category": "condiments-sauces"
+    },
+    {
+      "id": "import-pantry-sauce-2",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "T&T Premium Light Soy Sauce (特級生抽)",
+      "category": "condiments-sauces"
+    },
+    {
+      "id": "import-pantry-sauce-3",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "Kikkoman Soy Sauce (All-Purpose Seasoning)",
+      "category": "condiments-sauces"
+    },
+    {
+      "id": "import-pantry-sauce-4",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "Việt Hương Three Crabs Fish Sauce (Nước Mắm Nhĩ)",
+      "category": "condiments-sauces"
+    },
+    {
+      "id": "import-pantry-sauce-5",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "Jasmine Pomegranate Molasses",
+      "category": "condiments-sauces"
+    },
+    {
+      "id": "import-pantry-sauce-6",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "Wan Ja Shan Red Vinegar (大紅浙醋)",
+      "category": "oils-vinegars"
+    },
+    {
+      "id": "import-pantry-sauce-7",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "Mizkan Rice Vinegar",
+      "category": "oils-vinegars"
+    },
+    {
+      "id": "import-pantry-sauce-8",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "T&T Zhenjiang / Chinkiang Vinegar, aged 3 years (鎮江香醋)",
+      "category": "oils-vinegars"
+    },
+    {
+      "id": "import-pantry-sauce-9",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "Naturally Pressed Pure Sesame Seed Oil (Dark)",
+      "category": "oils-vinegars"
+    },
+    {
+      "id": "import-pantry-sauce-10",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "Truffle Hunter Black Truffle Oil",
+      "category": "oils-vinegars"
+    },
+    {
+      "id": "import-pantry-sauce-11",
+      "quantity": 1,
+      "purchaseDate": null,
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T15:41:50.277Z",
+      "name": "President's Choice Modified Liquid Coconut Oil",
+      "category": "oils-vinegars"
+    }
+  ],
   "spices": [
     {
       "id": "seed-spice-0",
@@ -502,5 +623,6 @@
     "freezer": [],
     "pantry": [],
     "spices": []
-  }
+  },
+  "pantryImportV1": true
 }
