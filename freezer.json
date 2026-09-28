@@ -196,6 +196,16 @@
       "createdAt": "2026-09-28T00:47:54.389Z",
       "quantity": 1,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1790556494612-j3pxnr",
+      "name": "Ground turkey portion",
+      "category": "meat-poultry",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T00:48:14.612Z",
+      "quantity": 3,
+      "dateFrozen": null
     }
   ],
   "pantry": [],
