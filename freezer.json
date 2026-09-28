@@ -497,5 +497,10 @@
       "note": null,
       "createdAt": "2026-09-27T15:06:55.877Z"
     }
-  ]
+  ],
+  "customCategories": {
+    "freezer": [],
+    "pantry": [],
+    "spices": []
+  }
 }
