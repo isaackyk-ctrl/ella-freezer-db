@@ -338,6 +338,16 @@
       "createdAt": "2026-09-28T16:59:38.150Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1790614860209-g2z9ur",
+      "name": "Western Family Vegetable Oil",
+      "category": "oils-vinegars",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T17:01:00.209Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
