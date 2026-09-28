@@ -328,6 +328,16 @@
       "createdAt": "2026-09-28T15:41:50.277Z",
       "name": "President's Choice Modified Liquid Coconut Oil",
       "category": "oils-vinegars"
+    },
+    {
+      "id": "gh-1790614778150-vqvtb5",
+      "name": "Lee Kum Kee Premium Oyster Sauce",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-09-28T16:59:38.150Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
