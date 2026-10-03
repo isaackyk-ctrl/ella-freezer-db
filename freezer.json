@@ -1017,6 +1017,15 @@
       "addedBy": null,
       "createdAt": "2026-10-03T18:07:21.144Z",
       "quantity": 1
+    },
+    {
+      "id": "gh-1791050859120-f3uhh4",
+      "name": "Box Grater",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:07:39.120Z",
+      "quantity": 1
     }
   ],
   "shopping": [
