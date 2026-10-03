@@ -990,6 +990,15 @@
       "addedBy": null,
       "createdAt": "2026-10-03T18:06:10.764Z",
       "quantity": 1
+    },
+    {
+      "id": "gh-1791050786152-xjctlf",
+      "name": "Mini Food Chopper",
+      "category": "small-appliances",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:06:26.152Z",
+      "quantity": 1
     }
   ],
   "shopping": [
