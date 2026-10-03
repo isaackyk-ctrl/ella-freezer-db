@@ -488,6 +488,126 @@
       "createdAt": "2026-10-03T17:27:23.884Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-0-0a2rb1",
+      "name": "KFI Butter Chicken Sauce",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-1-0sciqp",
+      "name": "Annie's Shells & White Cheddar",
+      "category": "grains-pasta",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 2,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-2-5d9mta",
+      "name": "Annie's Macaroni & Cheese Classic Cheddar",
+      "category": "grains-pasta",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-3-ngli5q",
+      "name": "Annie's Bunny Pasta",
+      "category": "grains-pasta",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 2,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-4-zlxxan",
+      "name": "Ocean Spray Cranberry Sauce",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-5-ec4qub",
+      "name": "Rio Mare Tuna in Olive Oil",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 2,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-6-n10dz3",
+      "name": "Kirkland Seasoned Chunk Chicken Breast",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-7-7xhkg7",
+      "name": "Géant Vert Niblets Corn",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 5,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-8-kytszs",
+      "name": "Western Family Cream Corn",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 2,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-9-2wc9ks",
+      "name": "WinCo Refried Beans",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-10-qcjkn7",
+      "name": "Kirkland Organic Diced Tomatoes",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791049036734-11-tmmieg",
+      "name": "Organic Lentil Soup",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:37:16.419Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
