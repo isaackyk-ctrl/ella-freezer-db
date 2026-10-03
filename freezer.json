@@ -458,6 +458,36 @@
       "createdAt": "2026-10-03T17:24:57.043Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048444311-6-sb9j54",
+      "name": "Artificial Vanilla Extract",
+      "category": "baking",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:27:23.883Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048444311-8-t0tcvj",
+      "name": "Corn Starch",
+      "category": "baking",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:27:23.884Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048444311-9-zcrffl",
+      "name": "Truffle Salt",
+      "category": "other",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:27:23.884Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
@@ -720,6 +750,69 @@
       "notes": null,
       "addedBy": null,
       "createdAt": "2026-09-20T17:34:22.487Z",
+      "inStock": true
+    },
+    {
+      "id": "gh-1791048444300-0-9n2nfs",
+      "name": "Black Pepper",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:27:23.883Z",
+      "inStock": true
+    },
+    {
+      "id": "gh-1791048444311-1-3jxi3c",
+      "name": "Ground Cinnamon",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:27:23.883Z",
+      "inStock": true
+    },
+    {
+      "id": "gh-1791048444311-2-7p3b4s",
+      "name": "Whole Black Peppercorn Grinder",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:27:23.883Z",
+      "inStock": true
+    },
+    {
+      "id": "gh-1791048444311-3-o7rh4n",
+      "name": "Bay Leaves",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:27:23.883Z",
+      "inStock": true
+    },
+    {
+      "id": "gh-1791048444311-4-4n94au",
+      "name": "Ground Thyme",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:27:23.883Z",
+      "inStock": true
+    },
+    {
+      "id": "gh-1791048444311-5-yoyrvc",
+      "name": "Organic Ground Ginger",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:27:23.883Z",
+      "inStock": true
+    },
+    {
+      "id": "gh-1791048444311-7-vb1vb5",
+      "name": "Saffron Threads",
+      "category": "spices",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:27:23.884Z",
       "inStock": true
     }
   ],
