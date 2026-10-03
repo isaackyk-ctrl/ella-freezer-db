@@ -999,6 +999,15 @@
       "addedBy": null,
       "createdAt": "2026-10-03T18:06:26.152Z",
       "quantity": 1
+    },
+    {
+      "id": "gh-1791050808250-36ko5c",
+      "name": "Salad Spinner",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:06:48.250Z",
+      "quantity": 1
     }
   ],
   "shopping": [
