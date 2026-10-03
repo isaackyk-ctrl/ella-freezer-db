@@ -936,6 +936,7 @@
       "inStock": true
     }
   ],
+  "tools": [],
   "shopping": [
     {
       "id": "gh-1789918199525-c993js",
@@ -977,7 +978,8 @@
   "customCategories": {
     "freezer": [],
     "pantry": [],
-    "spices": []
+    "spices": [],
+    "tools": []
   },
   "pantryImportV1": true
 }
