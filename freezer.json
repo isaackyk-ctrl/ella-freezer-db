@@ -936,7 +936,17 @@
       "inStock": true
     }
   ],
-  "tools": [],
+  "tools": [
+    {
+      "id": "gh-1791050662227-tz5dsh",
+      "name": "Instant Pot Pro",
+      "category": "small-appliances",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:04:22.226Z",
+      "quantity": 1
+    }
+  ],
   "shopping": [
     {
       "id": "gh-1789918199525-c993js",
