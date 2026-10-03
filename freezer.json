@@ -963,6 +963,15 @@
       "addedBy": null,
       "createdAt": "2026-10-03T18:05:06.677Z",
       "quantity": 1
+    },
+    {
+      "id": "gh-1791050723146-3ci1s7",
+      "name": "Breville Espresso Machine",
+      "category": "small-appliances",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:05:23.146Z",
+      "quantity": 1
     }
   ],
   "shopping": [
