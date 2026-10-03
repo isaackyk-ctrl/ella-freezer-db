@@ -206,6 +206,16 @@
       "createdAt": "2026-09-28T00:48:14.612Z",
       "quantity": 3,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1791045565185-r4n8v3",
+      "name": "Frozen berries",
+      "category": "produce",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T16:39:25.185Z",
+      "quantity": 1,
+      "dateFrozen": null
     }
   ],
   "pantry": [
