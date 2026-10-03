@@ -368,6 +368,96 @@
       "createdAt": "2026-09-28T23:36:22.627Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048297419-0-v4qrth",
+      "name": "Campbell's Tomato Soup",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:24:57.043Z",
+      "quantity": 3,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048297420-1-e8xf54",
+      "name": "Campbell's Cream of Broccoli & Cheese Soup",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:24:57.043Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048297420-2-jtj891",
+      "name": "365 Organic Tomato Sauce",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:24:57.043Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048297420-3-ab1iia",
+      "name": "Kirkland Organic Tomato Sauce",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:24:57.043Z",
+      "quantity": 4,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048297420-4-08odtr",
+      "name": "Sugar in the Raw",
+      "category": "baking",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:24:57.043Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048297420-5-y47yz1",
+      "name": "Blue Menu Diced Tomatoes No Salt Added",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:24:57.043Z",
+      "quantity": 2,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048297420-6-50mk9n",
+      "name": "Kingsford's Corn Starch",
+      "category": "baking",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:24:57.043Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048297420-7-f62qtx",
+      "name": "Aroy-D Lychee in Syrup",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:24:57.043Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791048297420-8-x3urpv",
+      "name": "Knorr Chicken Broth Mix",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T17:24:57.043Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
