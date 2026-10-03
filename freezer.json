@@ -981,6 +981,15 @@
       "addedBy": null,
       "createdAt": "2026-10-03T18:05:40.800Z",
       "quantity": 1
+    },
+    {
+      "id": "gh-1791050770764-ocf09k",
+      "name": "Panasonic Microwave",
+      "category": "small-appliances",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:06:10.764Z",
+      "quantity": 1
     }
   ],
   "shopping": [
