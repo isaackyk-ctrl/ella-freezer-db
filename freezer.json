@@ -954,6 +954,15 @@
       "addedBy": null,
       "createdAt": "2026-10-03T18:04:41.517Z",
       "quantity": 1
+    },
+    {
+      "id": "gh-1791050706677-cvw68i",
+      "name": "KitchenAid Range Stove",
+      "category": "cookware",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:05:06.677Z",
+      "quantity": 1
     }
   ],
   "shopping": [
