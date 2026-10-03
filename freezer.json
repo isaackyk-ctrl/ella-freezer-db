@@ -1035,6 +1035,123 @@
       "addedBy": null,
       "createdAt": "2026-10-03T18:08:04.696Z",
       "quantity": 1
+    },
+    {
+      "id": "gh-1791050948826-0-6mkrxv",
+      "name": "Mandoline Slicer",
+      "category": "knives-cutting",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-1-f2j5pl",
+      "name": "Microplane Grater",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-2-8njqui",
+      "name": "Apple Corer Slicer",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-3-ybf233",
+      "name": "Garlic Chopper",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-4-ft6bsv",
+      "name": "Kitchen Shears",
+      "category": "knives-cutting",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-5-5utjqg",
+      "name": "Meat Tenderizer Mallet",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-6-rm9af5",
+      "name": "Tongs",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-7-7ov381",
+      "name": "Basting Brush",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-8-08lu78",
+      "name": "Ladle",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-9-65vjm7",
+      "name": "Slotted Spoon",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-10-s0ytrh",
+      "name": "Wooden Spoons",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 2
+    },
+    {
+      "id": "gh-1791050948827-11-7b6l7c",
+      "name": "Fine Mesh Strainer",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
+    },
+    {
+      "id": "gh-1791050948827-12-1gfh7z",
+      "name": "Potato Masher",
+      "category": "utensils-gadgets",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:09:08.424Z",
+      "quantity": 1
     }
   ],
   "shopping": [
