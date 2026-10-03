@@ -972,6 +972,15 @@
       "addedBy": null,
       "createdAt": "2026-10-03T18:05:23.146Z",
       "quantity": 1
+    },
+    {
+      "id": "gh-1791050740801-zfudzj",
+      "name": "Vitamix Blender",
+      "category": "small-appliances",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-03T18:05:40.800Z",
+      "quantity": 1
     }
   ],
   "shopping": [
