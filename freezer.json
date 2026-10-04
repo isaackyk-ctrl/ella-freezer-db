@@ -208,6 +208,7 @@
       "dateFrozen": null
     }
   ],
+  "fridge": [],
   "pantry": [
     {
       "id": "import-pantry-sauce-0",
@@ -1277,6 +1278,7 @@
   ],
   "customCategories": {
     "freezer": [],
+    "fridge": [],
     "pantry": [],
     "spices": [],
     "tools": []
