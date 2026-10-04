@@ -238,6 +238,16 @@
       "createdAt": "2026-10-04T18:42:40.881Z",
       "quantity": 1,
       "openedDate": null
+    },
+    {
+      "id": "gh-1791139375265-ck22cl",
+      "name": "Kraft singles",
+      "category": "cheese-deli",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:42:55.264Z",
+      "quantity": 1,
+      "openedDate": null
     }
   ],
   "pantry": [
