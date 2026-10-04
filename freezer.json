@@ -408,6 +408,16 @@
       "createdAt": "2026-10-04T22:53:37.946Z",
       "quantity": 1,
       "openedDate": null
+    },
+    {
+      "id": "gh-1791154428276-o77cne",
+      "name": "Avocados",
+      "category": "produce",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T22:53:48.276Z",
+      "quantity": 1,
+      "openedDate": null
     }
   ],
   "pantry": [
