@@ -1460,6 +1460,41 @@
         "Slice and serve over rice with shredded cabbage and Kewpie mayo drizzle."
       ],
       "savedAt": "2026-10-04T19:23:53.979Z"
+    },
+    {
+      "id": "gh-1791141848757-m40h22",
+      "title": "Chicken Thigh Ramen Bowl",
+      "pitch": "Slice the thigh over rice ramen in a quick soy-ginger broth, using pantry staples for a warming one-bowl meal; thigh quantity is light so broth and noodles carry the dish.",
+      "timeMinutes": 25,
+      "servings": null,
+      "ease": null,
+      "storage": null,
+      "reheat": null,
+      "haveIngredients": [
+        "Chicken thighs, boneless & skinless",
+        "Rice ramen",
+        "Kikkoman Soy Sauce",
+        "Knorr Chicken Broth Mix",
+        "Organic Ground Ginger",
+        "Naturally Pressed Pure Sesame Seed Oil (Dark)"
+      ],
+      "consumedIngredients": [
+        "Chicken thighs, boneless & skinless",
+        "Rice ramen"
+      ],
+      "consumedQty": {},
+      "missingIngredients": [
+        "green onion",
+        "soft-boiled egg (optional topping)"
+      ],
+      "steps": [
+        "Simmer chicken broth mix with water, soy sauce, and ginger.",
+        "Slice chicken thigh thin and poach in broth until cooked.",
+        "Cook rice ramen separately per package, drain.",
+        "Assemble noodles in bowls, ladle broth and chicken over top.",
+        "Finish with a drizzle of sesame oil."
+      ],
+      "savedAt": "2026-10-04T19:24:08.757Z"
     }
   ],
   "household": [
