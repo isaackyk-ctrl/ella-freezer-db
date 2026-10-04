@@ -388,6 +388,16 @@
       "createdAt": "2026-10-04T18:45:35.826Z",
       "quantity": 1,
       "openedDate": null
+    },
+    {
+      "id": "gh-1791154413692-pjjaqo",
+      "name": "Spinach",
+      "category": "produce",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T22:53:33.691Z",
+      "quantity": 1,
+      "openedDate": null
     }
   ],
   "pantry": [
