@@ -648,6 +648,16 @@
       "createdAt": "2026-10-04T18:10:13.298Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1791137423077-bal0c1",
+      "name": "White jasmine rice",
+      "category": "grains-pasta",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:10:23.077Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
