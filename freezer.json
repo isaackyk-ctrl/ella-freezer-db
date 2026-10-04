@@ -638,6 +638,16 @@
       "createdAt": "2026-10-04T18:10:04.797Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1791137413298-75jr9k",
+      "name": "Lentil pasta",
+      "category": "grains-pasta",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:10:13.298Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
