@@ -358,6 +358,16 @@
       "createdAt": "2026-10-04T18:45:18.706Z",
       "quantity": 1,
       "openedDate": null
+    },
+    {
+      "id": "gh-1791139535826-29lmy9",
+      "name": "Kimchi",
+      "category": "other",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:45:35.826Z",
+      "quantity": 1,
+      "openedDate": null
     }
   ],
   "pantry": [
