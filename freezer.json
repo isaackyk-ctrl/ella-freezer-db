@@ -348,6 +348,16 @@
       "createdAt": "2026-10-04T18:44:50.918Z",
       "quantity": 1,
       "openedDate": null
+    },
+    {
+      "id": "gh-1791139518706-v499ll",
+      "name": "Tabasco",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:45:18.706Z",
+      "quantity": 1,
+      "openedDate": null
     }
   ],
   "pantry": [
