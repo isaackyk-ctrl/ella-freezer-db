@@ -678,6 +678,16 @@
       "createdAt": "2026-10-04T18:10:37.235Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1791137480125-vl9s1c",
+      "name": "Assorted rummo pasta",
+      "category": "grains-pasta",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:11:20.125Z",
+      "quantity": 6,
+      "purchaseDate": null
     }
   ],
   "spices": [
