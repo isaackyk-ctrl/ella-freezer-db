@@ -216,6 +216,16 @@
       "createdAt": "2026-10-04T22:49:27.400Z",
       "quantity": 2,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1791154184658-1600hu",
+      "name": "Quesadilla for linden",
+      "category": "meals-leftovers",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T22:49:44.657Z",
+      "quantity": 2,
+      "dateFrozen": null
     }
   ],
   "fridge": [
