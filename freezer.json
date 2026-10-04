@@ -65,7 +65,7 @@
       "createdAt": "2026-09-06T22:11:41.839Z",
       "name": "Salmon fillets",
       "category": "seafood",
-      "quantity": 3
+      "quantity": 1
     },
     {
       "id": "seed-10",
@@ -382,16 +382,6 @@
     {
       "id": "gh-1791048297420-1-e8xf54",
       "name": "Campbell's Cream of Broccoli & Cheese Soup",
-      "category": "canned-goods",
-      "notes": null,
-      "addedBy": null,
-      "createdAt": "2026-10-03T17:24:57.043Z",
-      "quantity": 1,
-      "purchaseDate": null
-    },
-    {
-      "id": "gh-1791048297420-2-jtj891",
-      "name": "365 Organic Tomato Sauce",
       "category": "canned-goods",
       "notes": null,
       "addedBy": null,
