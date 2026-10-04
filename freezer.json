@@ -598,6 +598,36 @@
       "createdAt": "2026-10-03T17:37:16.419Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1791133265956-0-ut67ba",
+      "name": "Mountain Lazy Lasagna Meal Kit",
+      "category": "grains-pasta",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T17:01:05.613Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791133265957-1-ylkc2r",
+      "name": "Mountain Stovetop Shepherd's Pie Meal Kit",
+      "category": "grains-pasta",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T17:01:05.613Z",
+      "quantity": 1,
+      "purchaseDate": null
+    },
+    {
+      "id": "gh-1791133265957-2-3gitln",
+      "name": "La Panzanella Croccantini",
+      "category": "snacks",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T17:01:05.613Z",
+      "quantity": 2,
+      "purchaseDate": null
     }
   ],
   "spices": [
