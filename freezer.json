@@ -628,6 +628,16 @@
       "createdAt": "2026-10-04T17:01:05.613Z",
       "quantity": 2,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1791137404797-iw9d4l",
+      "name": "Rice ramen",
+      "category": "grains-pasta",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:10:04.797Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
