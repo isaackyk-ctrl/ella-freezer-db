@@ -218,6 +218,16 @@
       "createdAt": "2026-10-04T18:42:31.010Z",
       "quantity": 1,
       "openedDate": null
+    },
+    {
+      "id": "gh-1791139356304-xv78u2",
+      "name": "Eggs",
+      "category": "dairy-eggs",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:42:36.304Z",
+      "quantity": 1,
+      "openedDate": null
     }
   ],
   "pantry": [
