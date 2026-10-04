@@ -428,6 +428,16 @@
       "createdAt": "2026-10-04T22:53:57.048Z",
       "quantity": 1,
       "openedDate": null
+    },
+    {
+      "id": "gh-1791154453465-bkm960",
+      "name": "Corn cob",
+      "category": "produce",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T22:54:13.465Z",
+      "quantity": 2,
+      "openedDate": null
     }
   ],
   "pantry": [
