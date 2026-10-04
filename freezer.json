@@ -1277,7 +1277,14 @@
   ],
   "plan": [],
   "saved": [],
-  "household": [],
+  "household": [
+    {
+      "id": "gh-1791138164705-ocxlpx",
+      "people": 2,
+      "notes": "My wife does not like black pepper and has an allergy to shellfish and nuts. I can eat everything, so using shrimp would be ok for me as an example.",
+      "updatedAt": "2026-10-04T18:22:44.705Z"
+    }
+  ],
   "customCategories": {
     "freezer": [],
     "pantry": [],
