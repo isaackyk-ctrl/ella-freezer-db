@@ -248,6 +248,106 @@
       "createdAt": "2026-10-04T18:42:55.264Z",
       "quantity": 1,
       "openedDate": null
+    },
+    {
+      "id": "gh-1791139491154-0-78zvzo",
+      "name": "Heinz Ketchup",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:44:50.917Z",
+      "quantity": 1,
+      "openedDate": null
+    },
+    {
+      "id": "gh-1791139491154-1-inbihx",
+      "name": "Kewpie Mayonnaise",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:44:50.917Z",
+      "quantity": 1,
+      "openedDate": null
+    },
+    {
+      "id": "gh-1791139491154-2-v3pklr",
+      "name": "Bull's-Eye BBQ Sauce",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:44:50.917Z",
+      "quantity": 1,
+      "openedDate": null
+    },
+    {
+      "id": "gh-1791139491154-3-b16cmk",
+      "name": "French's Yellow Mustard",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:44:50.917Z",
+      "quantity": 1,
+      "openedDate": null
+    },
+    {
+      "id": "gh-1791139491154-4-z9lzkf",
+      "name": "Sambal Oelek Chili Sauce",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:44:50.918Z",
+      "quantity": 1,
+      "openedDate": null
+    },
+    {
+      "id": "gh-1791139491154-5-8j8o30",
+      "name": "Sriracha Hot Chili Sauce",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:44:50.918Z",
+      "quantity": 1,
+      "openedDate": null
+    },
+    {
+      "id": "gh-1791139491154-6-zbybzd",
+      "name": "Mitsukan Ponzu",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:44:50.918Z",
+      "quantity": 1,
+      "openedDate": null
+    },
+    {
+      "id": "gh-1791139491154-7-wec136",
+      "name": "Lee Kum Kee Hoisin Sauce",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:44:50.918Z",
+      "quantity": 1,
+      "openedDate": null
+    },
+    {
+      "id": "gh-1791139491154-8-kuyfbd",
+      "name": "Fuji Dressing Vinaigrette",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:44:50.918Z",
+      "quantity": 1,
+      "openedDate": null
+    },
+    {
+      "id": "gh-1791139491154-9-jxcrbt",
+      "name": "Chick-fil-A Sauce",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-04T18:44:50.918Z",
+      "quantity": 1,
+      "openedDate": null
     }
   ],
   "pantry": [
