@@ -910,6 +910,16 @@
       "createdAt": "2026-10-05T04:09:11.896Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1791173376438-uhvkfx",
+      "name": "Glico curry",
+      "category": "condiments-sauces",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-05T04:09:36.438Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
