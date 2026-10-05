@@ -900,6 +900,16 @@
       "createdAt": "2026-10-04T18:11:20.125Z",
       "quantity": 6,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1791173351896-dw9bh2",
+      "name": "Potatoes",
+      "category": "other",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-05T04:09:11.896Z",
+      "quantity": 1,
+      "purchaseDate": null
     }
   ],
   "spices": [
