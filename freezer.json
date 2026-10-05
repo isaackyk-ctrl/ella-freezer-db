@@ -1575,6 +1575,43 @@
         "Finish with a drizzle of sesame oil."
       ],
       "savedAt": "2026-10-04T19:24:08.757Z"
+    },
+    {
+      "id": "gh-1791173446660-d2g6l9",
+      "title": "Instant Pot Japanese Beef Curry",
+      "pitch": "Uses your beef stew chunks and Glico curry roux in the Instant Pot for a fast, rich, family-friendly curry over rice.",
+      "timeMinutes": 45,
+      "servings": null,
+      "ease": null,
+      "storage": null,
+      "reheat": null,
+      "haveIngredients": [
+        "Beef chunks for stewing",
+        "Glico curry",
+        "White jasmine rice",
+        "Potatoes",
+        "Corn cob",
+        "Western Family Vegetable Oil"
+      ],
+      "consumedIngredients": [
+        "Beef chunks for stewing",
+        "Potatoes",
+        "Glico curry"
+      ],
+      "consumedQty": {
+        "Beef chunks for stewing": 2
+      },
+      "missingIngredients": [
+        "Carrots",
+        "Onion"
+      ],
+      "steps": [
+        "Sear beef chunks in Instant Pot on sauté setting.",
+        "Add chopped potatoes, onion, and corn; cover with water and pressure cook 20 min.",
+        "Release pressure, stir in curry roux blocks until dissolved and thickened.",
+        "Serve over steamed jasmine rice."
+      ],
+      "savedAt": "2026-10-05T04:10:46.660Z"
     }
   ],
   "household": [
