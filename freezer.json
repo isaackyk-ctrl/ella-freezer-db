@@ -10,16 +10,6 @@
       "quantity": 1
     },
     {
-      "id": "seed-2",
-      "dateFrozen": null,
-      "addedBy": null,
-      "createdAt": "2026-09-06T22:11:41.839Z",
-      "name": "Beef chunks for stewing",
-      "category": "meat-poultry",
-      "quantity": 2,
-      "notes": "small packages"
-    },
-    {
       "id": "seed-3",
       "dateFrozen": null,
       "addedBy": null,
