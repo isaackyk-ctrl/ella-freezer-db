@@ -216,6 +216,16 @@
       "createdAt": "2026-10-04T22:49:44.657Z",
       "quantity": 2,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1791335283591-kxacd6",
+      "name": "Chicken meatballs",
+      "category": "meat-poultry",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-07T01:08:03.591Z",
+      "quantity": 1,
+      "dateFrozen": null
     }
   ],
   "fridge": [
