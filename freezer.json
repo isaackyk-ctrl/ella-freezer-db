@@ -236,6 +236,16 @@
       "createdAt": "2026-10-10T20:40:41.039Z",
       "quantity": 1,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1791664849315-1x5zse",
+      "name": "Pork dumplings",
+      "category": "meals-leftovers",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-10T20:40:49.315Z",
+      "quantity": 1,
+      "dateFrozen": null
     }
   ],
   "fridge": [
