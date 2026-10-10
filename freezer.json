@@ -226,6 +226,16 @@
       "createdAt": "2026-10-07T01:45:02.454Z",
       "quantity": 1,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1791664841040-q5btjq",
+      "name": "Chicken dumplings",
+      "category": "meals-leftovers",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-10T20:40:41.039Z",
+      "quantity": 1,
+      "dateFrozen": null
     }
   ],
   "fridge": [
