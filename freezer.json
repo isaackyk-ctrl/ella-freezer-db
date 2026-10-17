@@ -236,6 +236,16 @@
       "createdAt": "2026-10-17T16:21:23.558Z",
       "quantity": 1,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1792254109359-8vr8cv",
+      "name": "Butternut squash pasta",
+      "category": "frozen-pasta-and-dumplings",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-17T16:21:49.359Z",
+      "quantity": 1,
+      "dateFrozen": null
     }
   ],
   "fridge": [
