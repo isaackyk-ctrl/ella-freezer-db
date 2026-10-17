@@ -226,6 +226,16 @@
       "createdAt": "2026-10-10T20:40:49.315Z",
       "quantity": 1,
       "dateFrozen": null
+    },
+    {
+      "id": "gh-1792254083558-jrt4dr",
+      "name": "Cheddar cheese grandma's pierogies",
+      "category": "sides-snacks",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-17T16:21:23.558Z",
+      "quantity": 1,
+      "dateFrozen": null
     }
   ],
   "fridge": [
