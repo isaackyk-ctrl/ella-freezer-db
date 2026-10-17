@@ -1706,7 +1706,12 @@
     }
   ],
   "customCategories": {
-    "freezer": [],
+    "freezer": [
+      {
+        "id": "frozen-pasta-and-dumplings",
+        "label": "Frozen pasta and dumplings"
+      }
+    ],
     "fridge": [],
     "pantry": [],
     "spices": [],
