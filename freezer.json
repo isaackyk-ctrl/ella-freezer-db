@@ -930,6 +930,16 @@
       "createdAt": "2026-10-05T04:09:36.438Z",
       "quantity": 1,
       "purchaseDate": null
+    },
+    {
+      "id": "gh-1792614348359-86904b",
+      "name": "Spicy sardines",
+      "category": "canned-goods",
+      "notes": null,
+      "addedBy": null,
+      "createdAt": "2026-10-21T20:25:48.359Z",
+      "quantity": 2,
+      "purchaseDate": null
     }
   ],
   "spices": [
